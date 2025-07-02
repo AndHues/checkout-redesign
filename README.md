@@ -15,3 +15,5 @@ A responsive single-page checkout layout emphasizing clear structure, accessible
 
 ## Author
 Andrew Hueston
+## Live Demo  
+[https://andhues.github.io/checkout-redesign/](https://andhues.github.io/checkout-redesign/)
